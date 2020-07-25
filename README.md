@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This profile is under construction 🚧
+
 <!--
 **letsgitcracking/letsgitcracking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
