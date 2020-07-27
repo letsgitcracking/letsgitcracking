@@ -3,7 +3,7 @@
 <p align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=letsgitcracking&show_icons=true&count_private=true&hide=issues,contribs">
 </p>
-![stats][]
+![https://github.com/letsgitcracking/letsgitcracking/blob/master/docs/github_stats.png][]
 
 
 
