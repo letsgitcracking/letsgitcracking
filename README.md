@@ -6,8 +6,10 @@
 <!--
 **letsgitcracking/letsgitcracking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![https://github.com/letsgitcracking/letsgitcracking/blob/master/docs/github_stats.png][]
+![stats][]
 Here are some ideas to get you started:
+
+[stats]: https://github.com/letsgitcracking/letsgitcracking/blob/master/docs/github_stats.png
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
