@@ -1,7 +1,7 @@
 ### Hi 👋
 
 <p align ="center">
-<img src="https://github-readme-stats.vercel.app/api?username=letsgitcracking&show_icons=true&line_height=27">
+<img src="https://github-readme-stats.vercel.app/api?username=letsgitcracking&show_icons=true&line_height=27&count_private=true">
 </p>
 <!--
 **letsgitcracking/letsgitcracking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
