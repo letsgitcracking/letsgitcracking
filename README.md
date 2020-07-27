@@ -3,9 +3,8 @@
 <p align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=letsgitcracking&show_icons=true&count_private=true&hide=issues,contribs">
 </p>
-![https://github.com/letsgitcracking/letsgitcracking/blob/master/docs/github_stats.png][]
-
-
+![stats][]
+[stats]: https://github.com/letsgitcracking/letsgitcracking/blob/master/docs/github_stats.png
 
 <!--
 **letsgitcracking/letsgitcracking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[stats]: https://github.com/letsgitcracking/letsgitcracking/blob/master/docs/github_stats.png
