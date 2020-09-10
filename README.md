@@ -1,10 +1,8 @@
-### Hi! 👋
+### Hi!! 👋
 
 <p align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=letsgitcracking&show_icons=true&count_private=true&hide=issues,contribs">
 </p>
-
-![](https://raw.githubusercontent.com/letsgitcracking/letsgitcracking/master/docs/github_stats.png)
 
 <!--
 **letsgitcracking/letsgitcracking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
