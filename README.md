@@ -1,4 +1,4 @@
-### Hi!! 👋
+### Hi! 👋
 
 <p align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=letsgitcracking&show_icons=true&count_private=true&hide=issues,contribs">
