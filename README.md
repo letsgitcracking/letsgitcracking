@@ -1,4 +1,5 @@
-<h3 align="center">Software Engineer from London UK</h3>
+<h1 align="center">Hi👋 </h1>
+<h3 align="center">I'm Software Engineer from London UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letsgitcracking" alt="letsgitcracking" /> </p>
 
@@ -9,4 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letsgitcracking&layout=compact" alt="letsgitcracking" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=letsgitcracking&show_icons=true" alt="letsgitcracking" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=letsgitcracking&show_icons=true&count_private=true&hide=issues,contribs" alt="letsgitcracking" /></p>
